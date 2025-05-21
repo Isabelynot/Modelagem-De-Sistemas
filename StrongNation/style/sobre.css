@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #cdb4db;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.strongtitulo {
+    font-size: 50px;
+    text-shadow: 2px 2px 2px black;
+}
+
+
+.caixa-pai {
+    text-align: center;
+    padding-top: 40px;
+    background-color: #ffc8dd;
+    color: #ee8fb2;
+}
+
+.caixa-filho {
+   padding-bottom: 40px;
+    text-align: center;
+    background-color: #ffc8dd;
+    color: #ee8fb2;
+}
+
+.inputbuscas {
+    width: 250px;
+    height: 30px;
+    border: #cdb4db;
+    border-radius: 10px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+}
+
+.botaobuscas {
+    margin-left: 10px;
+    width: 100px;
+    height: 20px;
+    background-color: #bde0fe;
+    border: none;
+    border-radius: 10px;
+}
+
+.botaobuscas:hover {
+    background-color: #faedcd;
+}
+
+.abuscas {
+    text-decoration: none;
+    color: #003049;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.navegacao {
+    background-color: #faedcd;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.anavegacao {
+    margin-right: 50px;
+    font-size: 25px;
+    text-decoration: none;
+    color: #c99765;
+    text-shadow: 2px 2px 2px black;
+    padding-bottom: 40px;
+}
+
+.anavegacao:hover {
+    color:#bde0fe;
+}
+
+.caixa-2 {
+   padding-top: 40px;
+   padding-bottom: 40px;
+   background-color: #cdb4db;
+   
+}
+
+.filho {
+    padding-top: 40px;
+    text-align: center;
+    width: 1500px;
+    margin-left: 150px;
+    font-size: 18px;
+    text-shadow: 2px 2px 2px black;
+    color: #fefae0;
+}
+
+.algo {
+    font-size: 40px;
+    text-shadow: 2px 2px 2px black;
+    color: white;
+}
+
+
+footer {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #e7c6ff;
+    color: #ee8fb2;
+    text-shadow: 2px 2px 2px black;
+}
+
+.anavegacao2 {
+    margin-right: 50px;
+    font-size: 25px;
+    text-decoration: none;
+    color: #ee8fb2;
+    text-shadow: 2px 2px 2px black;
+}
+
+.anavegacao2:hover {
+    color:#bde0fe;
+}

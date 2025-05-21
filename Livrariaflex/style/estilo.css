@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.caixa-letreiro {
+    background-color: #f1c40f;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 0%;
+}
+
+p {
+    padding-top: 8px;
+    font-size: 20px;
+}
+
+.caixa-span {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #f39c12;
+    text-align: center;
+}
+
+span {
+    font-size: 20px;
+    margin: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+
+}
+
+a:hover {
+    background-color: white;
+    color: (255, 94, 19);
+    border-radius: 5px;
+    padding: 2px 1px;
+}
+
+.caixa-pai {
+    background-color: #fff3cd;
+    padding: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+
+.livro {
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+    
+}
+
+.livro:hover {
+    transform: scale(1.1);
+
+}
+
+img {
+    border-radius: 5px;
+    padding-bottom: 10px;
+}
+
+.livro-espaco {
+    width: 256px;
+}
+
+.fechamento {
+    background-color: #f1c40f;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

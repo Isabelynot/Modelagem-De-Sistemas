@@ -1,0 +1,36 @@
+p:hover {
+    background-color: bisque;
+    
+}
+
+.estilo-p {
+    text-align: center;
+    background-color: rgb(110, 110, 119);
+     padding-top: 20px;
+     margin-left: 100px;
+     margin-right: 100px;
+}
+
+.estilo-a:hover {
+    color: rgb(114, 100, 82);
+    text-decoration: underline;
+}
+
+.estilo-a {
+    display: block;
+    text-decoration: none;
+    text-align: center;
+}
+
+a {
+    margin: 30px;
+}
+
+.class1 {
+    color:brown;
+    box-shadow: 10px 10px 5px blue;
+}
+
+.class2 {
+    font-size: 40px;
+}

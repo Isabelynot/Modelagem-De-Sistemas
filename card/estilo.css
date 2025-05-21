@@ -1,0 +1,21 @@
+.caixa-card {
+    display: flex;
+}
+
+.card1 {
+    background-color: brown;
+    color: bisque;
+    width: 200px;
+    padding: 50px;
+    margin: 30px;
+    border-radius: 40px;
+}
+
+.card2 {
+    background-color: brown;
+    color: bisque;
+    width: 200px;
+    padding: 50px;
+    border-radius: 40px;
+    margin: 30px;
+}

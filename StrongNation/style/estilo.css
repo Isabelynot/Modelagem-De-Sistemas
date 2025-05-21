@@ -1,0 +1,148 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #cdb4db;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.strongtitulo {
+    font-size: 50px;
+    text-shadow: 2px 2px 2px black;
+}
+
+
+.caixa-pai {
+    text-align: center;
+    padding-top: 40px;
+    background-color: #ffc8dd;
+    color: #ee8fb2;
+}
+
+.caixa-filho {
+   padding-bottom: 40px;
+    text-align: center;
+    background-color: #ffc8dd;
+    color: #ee8fb2;
+}
+
+.inputbuscas {
+    width: 250px;
+    height: 30px;
+    border: #cdb4db;
+    border-radius: 10px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+}
+
+.botaobuscas {
+    margin-left: 10px;
+    width: 100px;
+    height: 20px;
+    background-color: #bde0fe;
+    border: none;
+    border-radius: 10px;
+}
+
+.botaobuscas:hover {
+    background-color: #faedcd;
+}
+
+.abuscas {
+    text-decoration: none;
+    color: #003049;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.navegacao {
+    background-color: #faedcd;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.anavegacao {
+    margin-right: 50px;
+    font-size: 25px;
+    text-decoration: none;
+    color: #c99765;
+    text-shadow: 2px 2px 2px black;
+}
+
+.anavegacao:hover {
+    color:#bde0fe;
+}
+
+.imagemlogo {
+    border: 10px solid #432818;
+}
+
+.imagemlogo img {
+    width: 100%;
+}
+
+.ofertas {
+    padding-top: 40px;
+    color: #fefae0;
+    text-shadow: 2px 2px 2px black;
+}
+
+.caixa-produtos {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    flex-wrap: wrap;
+    display: flex;
+    align-content: space-between;
+    justify-content: center;
+}
+
+.objetos {
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    background-color: #f5ebe0;
+}
+
+.objetos2 {
+    width: 1000px;
+}
+
+.imgobjetos {
+    border-radius: 50px;
+}
+
+h2{
+    padding-top: 20px;
+    width: 1000px;
+    color: #fb6f92;
+}
+
+h3 {
+    color: #a7c957;
+}
+
+footer {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #e7c6ff;
+    color: #ee8fb2;
+    text-shadow: 2px 2px 2px black;
+}
+
+.anavegacao2 {
+    margin-right: 50px;
+    font-size: 25px;
+    text-decoration: none;
+    color: #ee8fb2;
+    text-shadow: 2px 2px 2px black;
+}
+
+.anavegacao2:hover {
+    color:#bde0fe;
+}
+

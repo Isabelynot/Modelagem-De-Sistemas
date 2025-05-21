@@ -1,0 +1,16 @@
+.caixa-albuns {
+    display: flex;
+}
+
+.textos-iniciais {
+    text-align: center;
+}
+
+.caixa1 {
+    margin-right: 100px;
+}
+
+.caixa2 {
+    margin-right: 150px;
+}
+
