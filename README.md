@@ -5,11 +5,15 @@ Bem-vindo ao meu repositório de estudos! Aqui compartilho minha jornada de apre
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+---
+
 ## ℹ️ Sobre  
 Neste repositório, você encontrará:  
 - 📌 Projetos desenvolvidos durante a disciplina de Modelagem de Sistemas.  
 - 🎨 Exercícios e páginas criadas com HTML e CSS.  
 - 📝 Anotações e esquemas sobre conceitos fundamentais de modelagem, como casos de uso, diagramas de classe, e muito mais!
+  
+---
 
 ## 🗂️ Estrutura do Repositório  
 
@@ -20,6 +24,8 @@ Neste repositório, você encontrará:
 - 🗂️ **Relembrando**: Projeto usado para revisar e fixar tags importantes do HTML.  
 - 🗂️ **Strong Kitty Nation**: Trabalho final que coloca em prática os conhecimentos adquiridos na disciplina. Protótipo em HTML usando várias tags estudadas, com layout personalizado e CSS chamativo e objetivo.  
 - 🗂️ **Trabalho Filmes**: Protótipo em HTML que utiliza as tags aprendidas ao longo do curso, com um layout simples e direto.
+ 
+---
 
 ## 🎯 Meus Objetivos  
 - Entender os princípios da Modelagem de Sistemas e como aplicá-los em projetos reais.  
@@ -27,6 +33,8 @@ Neste repositório, você encontrará:
 - Estilizar páginas usando CSS3, aplicando conceitos como classes, flexbox e grid layout.  
 - Desenvolver protótipos funcionais com HTML/CSS baseados em diagramas de modelagem.  
 - Aprender a documentar e apresentar sistemas com clareza e organização.
+  
+---
 
 ## 📞 Contato  
 Se quiser trocar uma ideia sobre modelagem, desenvolvimento web ou compartilhar experiências de aprendizado, você pode me encontrar em:  
