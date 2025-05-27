@@ -10,9 +10,8 @@ Bem-vindo ao meu repositório de estudos! Aqui compartilho minha jornada de apre
 ## ℹ️ Sobre  
 Neste repositório, você encontrará:  
 - 📌 Projetos desenvolvidos durante a disciplina de Modelagem de Sistemas.  
-- 🎨 Exercícios e páginas criadas com HTML e CSS.  
-- 📝 Anotações e esquemas sobre conceitos fundamentais de modelagem, como casos de uso, diagramas de classe, e muito mais!
-  
+- 🎨 Exercícios e páginas criadas com HTML e CSS.
+    
 ---
 
 ## 🗂️ Estrutura do Repositório  
